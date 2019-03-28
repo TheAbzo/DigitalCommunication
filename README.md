@@ -47,7 +47,9 @@ then in **Monte Carlo**Tab we add our file.slx and put our Ber variable name (in
 
 ## QAM16
 
-1. 16 Point Quadrature Amplitude Modulation
+1. 16 Point Quadrature Amplitude Modulation ,two carriers in quadrature i.e 90 degrees out phase .These two carriers are called the I( for In-phase) and Q(for Quadrature phase) carriers.
+
+by allowing for 4 amplitude variations, for each of the carriers, 4.4 = 16 different states/sympols  can be represented.
 
 2. **The 2 scatter diagrams** are produced by 2 constellation diagrams ,that shows the difference between source without noise and after noise.
   **The Ber** is produced by running `bertool` in command window then in **Theoratical Tab** we change value to -10:10 and press plot.
@@ -62,7 +64,9 @@ then in **Monte Carlo**Tab we add our file.slx and put our Ber variable name (in
 
 ## QAM64
 
-1. 64 Point Quadrature Amplitude Modulation
+1. 64 Point Quadrature Amplitude Modulation,two carriers in quadrature i.e 90 degrees out phase .These two carriers are called the I( for In-phase) and Q(for Quadrature phase) carriers.
+ 
+by allowing for 8 amplitude variations, for each of the carriers, 8.8 = 64 different states/sympols  can be represented.
 
 2. **The 2 scatter diagrams** are produced by 2 constellation diagrams ,that shows the difference between source without noise and after noise.
   **The Ber** is produced by running `bertool` in command window then in **Theoratical Tab** we change value to -10:10 and press plot.
